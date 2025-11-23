@@ -65,6 +65,6 @@ Run Locally:
 npm run dev
 
 
-The application will typically start on http://localhost:5173.
+
 
 
