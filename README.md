@@ -4,8 +4,7 @@ This is the source code for the personal portfolio of Ankith Bera, a Senior Data
 
 🚀 Live Demo
 
-View the live portfolio here: [Link to your Vercel Deployment]
-(Please replace [Link to your Vercel Deployment] with your actual Vercel URL once deployed)
+View the live portfolio here: https://ankithbera.vercel.app/
 
 💼 Key Highlights
 
@@ -25,17 +24,16 @@ Link
 
 Live Portfolio
 
-(Your Vercel URL here)
+(https://ankithbera.vercel.app/)
 
 LinkedIn Profile
 
-Connect with Ankith Bera on LinkedIn
+(https://www.linkedin.com/in/ankith-bera/)
 
 Resume Download
 
 Download Resume PDF
 
-(Remember to replace the placeholder links above with your actual URLs.)
 
 🛠️ Tech Stack
 
@@ -69,5 +67,4 @@ npm run dev
 
 The application will typically start on http://localhost:5173.
 
-Edit Content:
-All personal information (Name, Title, Experience, Skills, Projects) is centralized in the DATA object at the very top of the src/App.jsx file. Edit this object to customize the portfolio easily.
+
