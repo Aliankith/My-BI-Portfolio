@@ -3,11 +3,16 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Ankith Bera | BI & Analytics Portfolio</title>
+    <title>Ankith Bera | BI Portfolio</title>
   </head>
-  <body>
-    <!-- This is the element where React will mount your application -->
+  <body class="bg-gray-50 dark:bg-gray-950 transition-colors duration-300">
+    <!-- The root element where React will mount the application -->
     <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
+    
+    <!-- 
+      FIX: The script path is now relative (./src/main.jsx) to fix the Rollup resolution error 
+      encountered during the Vercel build process.
+    -->
+    <script type="module" src="./src/main.jsx"></script>
   </body>
 </html>
