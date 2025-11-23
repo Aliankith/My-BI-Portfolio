@@ -25,7 +25,7 @@ const DATA = {
 
   // --- Social Links ---
   // ! IMPORTANT: Replace these '#' with your actual profile URLs
-  linkedin: "https://www.linkedin.com/", 
+  linkedin: "https://www.linkedin.com/in/ankith-bera/", 
   github: "#", 
   resumeUrl: "https://drive.google.com/file/d/1XyS8xLkstHgwd6VZ8rzbwHOo5Up6RNfI/view?usp=drive_link", // Upload your PDF to Google Drive/Dropbox and paste the share link here
 
